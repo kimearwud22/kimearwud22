@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Kime Arud!
+# Hi there 👋 , I'm Kime Arwud!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 ### Tools:
