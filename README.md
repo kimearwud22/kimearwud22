@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Kime Arwud!
-<img align='right' src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&tbnid=e9hPImsTmTzH1M&vet=12ahUKEwjLyurA6Ln9AhX1TnwKHQiaCV8QMygAegQIARA_..i&docid=byl13oNOX0zH9M&w=480&h=270&q=gif%20%20coding%20home%20lucu&ved=2ahUKEwjLyurA6Ln9AhX1TnwKHQiaCV8QMygAegQIARA_" width="230">
+<!-- <img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw03Sge4zkqUOccxYl7FUOHu&ust=1677728679069000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODtrMLouf0CFQAAAAAdAAAAABAE" width="230"> -->
 <p><em>Software Engineer at <a href="http://www.rumahsampah.com">RSC</a>
 </em> and Computer Science  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
