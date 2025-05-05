@@ -2,36 +2,32 @@ name: Generate GitHub Snake
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
+
+# TAMBAHKAN BLOK INI
+permissions:
+  contents: write # Memberi izin untuk menulis ke repositori (push)
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # ... (langkah-langkah checkout, generate snake tetap sama) ...
+
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate Snake animation
         uses: Platane/snk@v3
         with:
-          # GitHub user name to use
-          github_user_name: kimearwud22 # <-- GANTI DENGAN USERNAME ANDA
-          # Output path for the SVG file
+          github_user_name: kimearwud22
           outputs: dist/github-contribution-grid-snake.svg
-
-      # Alternatif jika ingin juga format GIF
-      # - name: Generate Snake animation (GIF)
-      #   uses: Platane/snk@v3
-      #   with:
-      #     github_user_name: kimearwud22 # <-- GANTI DENGAN USERNAME ANDA
-      #     outputs: dist/github-contribution-grid-snake.gif?palette=github-dark
 
       - name: Push changes
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output # Branch tempat menyimpan hasil (bisa juga 'main' atau 'master' jika Anda mau)
+          target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
