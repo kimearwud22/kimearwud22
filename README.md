@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kimearwud22&show_icons=true&locale=en" alt="kimearwud22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimearwud22&" alt="kimearwud22" /></p>
+
+## My Contribution Snake 🐍
+![Snake animation](https://raw.githubusercontent.com/kimearwud22/kimearwud22/output/dist/github-contribution-grid-snake.svg)
