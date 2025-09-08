@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kimearwud22" alt="kimearwud22" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://kimearwud.my.id/](http://kimearwud.my.id/)
+- 👨‍💻 All of my projects are available at [http://kime.my.id/](http://kime.my.id/)
 
-- 📝 I regularly write articles on [http://kimearwud.my.id/](http://kimearwud.my.id/)
+- 📝 I regularly write articles on [http://kime.my.id/](http://kime.my.id/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
